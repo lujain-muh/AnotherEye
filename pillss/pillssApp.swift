@@ -11,7 +11,7 @@ import SwiftUI
 struct pillssApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            LaunchScreenView()
         }
     }
 }
