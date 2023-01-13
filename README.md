@@ -1,6 +1,6 @@
 # Pills
 ## challenge statemnt
-inclusive 
+Make an inclusive solution for low vision
 ## solution concept 
 ## Technologie & Tools 
 ## Demo of your App(1-2 minute long)
