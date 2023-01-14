@@ -15,3 +15,4 @@ https://user-images.githubusercontent.com/116815157/212478501-8ad72792-ef58-46e2
 
 ## Challenge Summary 
 that helps bllinds and low-vision people you can take a picture of any paper doucument , such as receipt , notes or any other document and we will read it  
+<img width="1512" alt="Screenshot 1444-06-21 at 6 05 54 PM" src="https://user-images.githubusercontent.com/116815157/212478685-0e7084f1-d8fe-41c3-ad57-d44f6da05e17.png">
