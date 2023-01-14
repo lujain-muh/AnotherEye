@@ -11,6 +11,5 @@ provide an application for blind and low vision who want read any document inter
 ## Demo of your App(1-2 minute long)
 
 https://user-images.githubusercontent.com/116815157/212449948-0b1a2e5c-aa4c-454d-8ee9-bfec6bc34144.mp4
-## Challenge Summary
-### that helps bllinds and low-vision people 
-### you can take a picture of any paper doucument , such as receipt , notes or any other document and we will read it  
+## Challenge Summary 
+that helps bllinds and low-vision people you can take a picture of any paper doucument , such as receipt , notes or any other document and we will read it  
