@@ -7,7 +7,8 @@ provide an application for blind and low vision who want read any document inter
 ## Technologie & Tools 
 - Vision kit 
 - Accessibillity
-- SwiftUi 
+- SwiftUi
+- localization(FR)
 ## Demo of your App(1-2 minute long)
 
 https://user-images.githubusercontent.com/116815157/212478501-8ad72792-ef58-46e2-bad3-635ef859b068.mp4
